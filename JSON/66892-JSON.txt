@@ -1,0 +1,20 @@
+{
+  "Legajo": 67523,
+  
+	"DNI":38456789,
+  
+	"Nombre": "Agustin",
+  
+	"Apellido": "Fascioli",
+  
+	"Finales": [
+    
+		{"Materia": "PAVI","Nota":9,"Fecha":20170217},
+    
+		{"Materia": "PAVII","Nota":8,"Fecha":20181206},
+    
+		{"Materia": "COM","Nota":7,"Fecha":20160607}
+  
+		]
+
+}
